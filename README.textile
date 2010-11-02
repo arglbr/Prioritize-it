@@ -24,4 +24,4 @@ With it you can centralize the needs of your users and, with their help, choose 
 There are two spreadsheets: one written in English and one in Brazilian Portuguese, both with the same content.
 
 A small guide about how to use it can be read on my blog, where I reported my first experience using it:
-"http://blog.argl.eng.br/pt/priorizacao-demandas-voto/":http://blog.argl.eng.br/pt/priorizacao-demandas-voto/
+"http://blog.argl.eng.br/en/prioritization-demands-voting/":http://blog.argl.eng.br/en/prioritization-demands-voting/
